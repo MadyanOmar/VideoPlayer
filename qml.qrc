@@ -1,7 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>PlayButton.qml</file>
         <file>pause.png</file>
         <file>play.png</file>
     </qresource>
